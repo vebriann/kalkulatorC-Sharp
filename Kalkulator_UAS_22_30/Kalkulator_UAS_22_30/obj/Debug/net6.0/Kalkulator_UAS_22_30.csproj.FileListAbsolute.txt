@@ -1,0 +1,15 @@
+C:\Users\novia\OneDrive\Documents\SEMESTER 1\All tugas\ngoding c# bu berlin\Kalkulator_UAS_22_30\Kalkulator_UAS_22_30\bin\Debug\net6.0\Kalkulator_UAS_22_30.exe
+C:\Users\novia\OneDrive\Documents\SEMESTER 1\All tugas\ngoding c# bu berlin\Kalkulator_UAS_22_30\Kalkulator_UAS_22_30\bin\Debug\net6.0\Kalkulator_UAS_22_30.deps.json
+C:\Users\novia\OneDrive\Documents\SEMESTER 1\All tugas\ngoding c# bu berlin\Kalkulator_UAS_22_30\Kalkulator_UAS_22_30\bin\Debug\net6.0\Kalkulator_UAS_22_30.runtimeconfig.json
+C:\Users\novia\OneDrive\Documents\SEMESTER 1\All tugas\ngoding c# bu berlin\Kalkulator_UAS_22_30\Kalkulator_UAS_22_30\bin\Debug\net6.0\Kalkulator_UAS_22_30.dll
+C:\Users\novia\OneDrive\Documents\SEMESTER 1\All tugas\ngoding c# bu berlin\Kalkulator_UAS_22_30\Kalkulator_UAS_22_30\bin\Debug\net6.0\Kalkulator_UAS_22_30.pdb
+C:\Users\novia\OneDrive\Documents\SEMESTER 1\All tugas\ngoding c# bu berlin\Kalkulator_UAS_22_30\Kalkulator_UAS_22_30\obj\Debug\net6.0\Kalkulator_UAS_22_30.csproj.AssemblyReference.cache
+C:\Users\novia\OneDrive\Documents\SEMESTER 1\All tugas\ngoding c# bu berlin\Kalkulator_UAS_22_30\Kalkulator_UAS_22_30\obj\Debug\net6.0\Kalkulator_UAS_22_30.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\novia\OneDrive\Documents\SEMESTER 1\All tugas\ngoding c# bu berlin\Kalkulator_UAS_22_30\Kalkulator_UAS_22_30\obj\Debug\net6.0\Kalkulator_UAS_22_30.AssemblyInfoInputs.cache
+C:\Users\novia\OneDrive\Documents\SEMESTER 1\All tugas\ngoding c# bu berlin\Kalkulator_UAS_22_30\Kalkulator_UAS_22_30\obj\Debug\net6.0\Kalkulator_UAS_22_30.AssemblyInfo.cs
+C:\Users\novia\OneDrive\Documents\SEMESTER 1\All tugas\ngoding c# bu berlin\Kalkulator_UAS_22_30\Kalkulator_UAS_22_30\obj\Debug\net6.0\Kalkulator_UAS_22_30.csproj.CoreCompileInputs.cache
+C:\Users\novia\OneDrive\Documents\SEMESTER 1\All tugas\ngoding c# bu berlin\Kalkulator_UAS_22_30\Kalkulator_UAS_22_30\obj\Debug\net6.0\Kalkulator_UAS_22_30.dll
+C:\Users\novia\OneDrive\Documents\SEMESTER 1\All tugas\ngoding c# bu berlin\Kalkulator_UAS_22_30\Kalkulator_UAS_22_30\obj\Debug\net6.0\refint\Kalkulator_UAS_22_30.dll
+C:\Users\novia\OneDrive\Documents\SEMESTER 1\All tugas\ngoding c# bu berlin\Kalkulator_UAS_22_30\Kalkulator_UAS_22_30\obj\Debug\net6.0\Kalkulator_UAS_22_30.pdb
+C:\Users\novia\OneDrive\Documents\SEMESTER 1\All tugas\ngoding c# bu berlin\Kalkulator_UAS_22_30\Kalkulator_UAS_22_30\obj\Debug\net6.0\Kalkulator_UAS_22_30.genruntimeconfig.cache
+C:\Users\novia\OneDrive\Documents\SEMESTER 1\All tugas\ngoding c# bu berlin\Kalkulator_UAS_22_30\Kalkulator_UAS_22_30\obj\Debug\net6.0\ref\Kalkulator_UAS_22_30.dll
