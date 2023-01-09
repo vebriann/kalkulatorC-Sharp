@@ -1,2 +1,3 @@
-# kalkulatorC-Sharp
- ini adalah project portfolio uas semester 1
+```
+Di Program kalkulator ini masih ada beberapa bug, bug tersebut akan saya fix sesegera mungkin :)
+```
